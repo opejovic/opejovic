@@ -1,4 +1,4 @@
-![Ognjen Pejović]('https://github.com/opejovic/opejovic/raw/master/header.png')
+![Ognjen Pejović](https://github.com/opejovic/opejovic/raw/master/header.png)
 
 
 ### Hi there 👋
