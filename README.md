@@ -1,3 +1,6 @@
+![Ognjen Pejović](https://github.com/opejovic/opejovic/raw/master/Group 1.png)
+
+
 ### Hi there 👋
 
 
