@@ -1,4 +1,4 @@
-![Ognjen Pejović](https://github.com/opejovic/opejovic/raw/master/header.png)
+![Ognjen Pejović](https://github.com/opejovic/opejovic/raw/master/header1.png)
 ### Hi there 👋
 Here are some ideas to get you started:
 
