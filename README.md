@@ -1,5 +1,4 @@
 ### Hi there 👋
-Here are some ideas to get you started:
 
 - 🔭 I'm a full-stack Laravel developer
 - 🌱 I’m currently learning Vue 3 and React
