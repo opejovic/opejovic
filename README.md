@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hi there 👋, I'm Ognjen</H1>
 
 
   <a href="/" align="left">
