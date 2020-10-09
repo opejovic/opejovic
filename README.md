@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi there, 👋 I'm Ognjen! 😎</h2>
+<h2 align="center">👋  Hi there, I'm Ognjen!</h2>
 
 
 <div>
