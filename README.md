@@ -3,16 +3,16 @@
 
 <h3 align="center">A web developer from Montenegro</h3>
 
-- 🌱  I’m currently learning **Vue3 and TypeScript**
+- 🌱 &nbsp; I’m currently learning **Vue3 and TypeScript**
 
-- 👨‍💻  All of my projects are available at [https://github.com/opejovic](https://github.com/opejovic)
+- 👨‍💻 &nbsp;All of my projects are available at [https://github.com/opejovic](https://github.com/opejovic)
 
-- 📫  How to reach me **opejovic@gmail.com**
+- 📫 &nbsp;How to reach me **opejovic@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+<a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
