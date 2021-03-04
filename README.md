@@ -3,11 +3,11 @@
 
 <h3 align="center">A web developer from Montenegro</h3>
 
-- 🌱 &nbsp; I’m currently learning **Vue3 and TypeScript**
+🌱 &nbsp; I’m currently learning **Vue3 and TypeScript**
 
-- 👨‍💻 &nbsp;All of my projects are available at [https://github.com/opejovic](https://github.com/opejovic)
+👨‍💻  &nbsp; All of my projects are available at [https://github.com/opejovic](https://github.com/opejovic)
 
-- 📫 &nbsp;How to reach me **opejovic@gmail.com**
+📫  &nbsp; How to reach me **opejovic@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
