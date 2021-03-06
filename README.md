@@ -3,7 +3,7 @@
 
 <h3 align="center">A web developer from Montenegro</h3>
 
-🌱 &nbsp; I’m currently learning **Vue3 and TypeScript**
+🌱 &nbsp; I’m currently learning **Vue 3 and TypeScript**
 
 👨‍💻  &nbsp; All of my projects are available at [https://github.com/opejovic](https://github.com/opejovic)
 
