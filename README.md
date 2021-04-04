@@ -7,7 +7,7 @@
 
 👨‍💻  &nbsp; In my spare time I'm trying to build and share full responsive Vue.js x TailwindCSS (with some custom css / animations) components (https://opejovic.github.io/breezy/).
 
-📫  &nbsp; How to reach me **ognjen@fullstacked.dev**
+📫  &nbsp; Say hello -> **ognjen@fullstacked.dev**
 <p align="left"> 
 <h5 align="left">Front-end</h5>
 
