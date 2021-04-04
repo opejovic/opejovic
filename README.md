@@ -1,7 +1,5 @@
 
 <h2 align="center">👋  Hi there, I'm OG!</h2>
-
-<h3 align="center">A web developer from Montenegro</h3>
 <h3 align="center">https://ognjen.dev</h3>
 
 
