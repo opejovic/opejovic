@@ -20,7 +20,6 @@
 
 
 <h3 align="left">Back-end</h3>
-<hr>
 <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
 <a href="https://phpunit.de" target="_blank"> <img src="https://phpunit.de/img/phpunit.svg" alt="phpunit" width="40" height="40"/> </a> 
