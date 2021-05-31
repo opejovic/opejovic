@@ -1,5 +1,5 @@
 
-<h2 align="center">👋  Hi there, I'm OG!</h2>
+<h2 align="center">👋  Hi there, I'm Ognjen</h2>
 <h3 align="center">https://ognjen.dev</h3>
 
 
