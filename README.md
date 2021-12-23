@@ -3,7 +3,7 @@
 <h3 align="center">https://ognjen.dev</h3>
 
 
-🌱 &nbsp; I’m currently learning **Vue 3, Node.js, Web3 and Solidity**
+🌱 &nbsp; I’m currently learning **Vue 3 and Web3**
 
 👨‍💻  &nbsp; In my spare time I'm trying to build and share full responsive Vue.js x TailwindCSS (with some custom css / animations) components (https://opejovic.github.io/breezy/).
 
