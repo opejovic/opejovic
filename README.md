@@ -2,6 +2,9 @@
 <h2 align="center">👋  Hi there, I'm Ognjen</h2>
 <h3 align="center">https://ognjen.dev</h3>
 
+<img align="right" width="51%" src="https://github-readme-stats.vercel.app/api?username=opejovic&title_color=eb1f6a&icon_color=999&text_color=999999&bg_color=0,27282200,0000000F&show_icons=true&hide_border=true&count_private=true">
+
+<img align='right' width='51%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=opejovic&hide=html,java,jupyter%20notebook,css&layout=compact&card_width=495&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=0,27282200,0000000F&hide_border=true">
 
 🌱 &nbsp; I’m currently learning **Vue 3**
 
@@ -28,13 +31,3 @@
 
 <!-- <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  -->
 </p>
-<div>
-  <a href="/" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opejovic&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
-  </a>
-  
-
-  <a href="/" align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=opejovic&count_private=true&show_icons=true&icon_color=222&title_color=0366d6&text_color=586069&bg_color=fff&hide=issues&hide_border=true&include_all_commits=true" />
-  </a>
-</div>
