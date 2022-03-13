@@ -8,7 +8,7 @@
 
 🌱 &nbsp; I’m currently learning **Vue 3**
 
-👨‍💻  &nbsp; Working mostly with Laravel and Vue. Planning a switch to frontend exclusively in the near future. In my spare time I'm trying to build and share full responsive Vue.js x TailwindCSS (with some custom css / animations) components (https://opejovic.github.io/breezy/).
+👨‍💻  &nbsp; Working mostly with Laravel and Vue. In my spare time I'm trying to build and share full responsive Vue.js x TailwindCSS (with some custom css / animations) components (https://opejovic.github.io/breezy/).
 
 📫  &nbsp; Say hello -> **ognjen@fullstacked.dev**
 <p align="left"> 
