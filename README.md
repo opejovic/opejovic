@@ -2,7 +2,7 @@
 <h2 align="center">👋  Hi there, I'm Ognjen</h2>
 <h3 align="center">https://ognjen.dev</h3>
 
-🌱 &nbsp; I’m currently learning **Vue 3**
+🌱 &nbsp; I’m currently learning **Vue**
 
 👨‍💻  &nbsp; Working mostly with Laravel and Vue. In my spare time I'm trying to build and share full responsive Vue.js x TailwindCSS (with some custom css / animations) components (https://opejovic.github.io/breezy/).
 
