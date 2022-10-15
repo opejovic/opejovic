@@ -4,7 +4,7 @@
 
 Working mostly with Laravel and Vue. In my spare time I'm trying to build and share full responsive Vue.js x TailwindCSS (with some custom css / animations) components (https://opejovic.github.io/breezy/).
 
-Say hi **ognjen@fullstacked.dev**
+Say hi **opejovic@gmail.com**
 <p align="left"> 
 <h5 align="left">Front-end</h5>
 
