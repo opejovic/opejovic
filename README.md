@@ -2,9 +2,9 @@
 <h2 align="left">👋  Hi there, I'm Ognjen</h2>
 <h3 align="left">https://ognjen.dev</h3>
 
-Im currently learning React and Vue 3.
+Im currently learning Typescript, React and Vue 3.
 
-Working mostly with Laravel and Vue. In my spare time I'm trying to build and share full responsive Vue.js x TailwindCSS (with some custom css / animations) components (https://opejovic.github.io/breezy/).
+Working mostly with Vue and Laravel. In my spare time I'm trying to build and share full responsive Vue.js x TailwindCSS (with some custom css / animations) components (https://opejovic.github.io/breezy/).
 
 <p align="left"> 
 <h5 align="left">Front-end</h5>
