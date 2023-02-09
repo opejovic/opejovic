@@ -1,6 +1,5 @@
 
-<h2 align="left">👋  Hi there, I'm Ognjen</h2>
-<h3 align="left">https://ognjen.dev</h3>
+<h3 align="left">Hello, I'm Ognjen</h3>
 
 Im currently learning Vue 3.
 
