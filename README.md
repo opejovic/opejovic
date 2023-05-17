@@ -9,8 +9,6 @@ Working mostly with Vue and Laravel. In my spare time I'm trying to build and sh
 <a href="https://nuxtjs.org/" target="_blank"> <img src="https://nuxt.com/assets/design-kit/logo/full-logo-green-dark.svg" alt="nuxtjs" height="40" width="60" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://figma.com" target="_blank"> <img src="https://iconape.com/wp-content/files/xf/353220/svg/figma-seeklogo.com.svg" alt="figma" width="40" height="40"/> </a> 
-
-
 <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 
 
