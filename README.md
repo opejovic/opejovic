@@ -6,7 +6,7 @@ Working mostly with Vue and Laravel. In my spare time I'm trying to build and sh
 <p align="left"> 
 
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://nuxtjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> </a>
+<a href="https://nuxtjs.org/" target="_blank"> <img src="https://nuxt.com/assets/design-kit/logo/full-logo-green-dark.svg" alt="nuxtjs" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://figma.com" target="_blank"> <img src="https://iconape.com/wp-content/files/xf/353220/svg/figma-seeklogo.com.svg" alt="figma" width="40" height="40"/> </a> 
