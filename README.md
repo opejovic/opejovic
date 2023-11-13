@@ -1,7 +1,7 @@
 
-<h3 align="left">Hi, I'm Ognjen</h3>
+<h3 align="left">👋 Hi, I'm Ognjen</h3>
 
 Working mostly with Vue and Laravel. In my spare time I'm trying to build and share full responsive Vue.js x TailwindCSS (with some custom css / animations) components (https://opejovic.github.io/breezy/).
 
 
-Feel free to say hi -> opejovic@gmail.com
+<a href="mailto:opejovic@gmail.com" target="_blank">Feel free to say hi</a>
