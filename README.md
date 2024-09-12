@@ -4,5 +4,5 @@
 
 <p style="font-family: monospace;">Building things for web and mobile using Laravel/PHP/Vue/Nuxt/React/NextJS/ReactNative </p>
 
-<a href="mailto:opejovic@gmail.com" target="_blank">Want to work with me? Feel free to say hi!</a>
+<a href="mailto:opejovic@gmail.com" target="_blank">Feel free to say hi!</a>
 </samp>
